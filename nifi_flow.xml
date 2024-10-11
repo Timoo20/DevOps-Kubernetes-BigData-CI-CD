@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nifi-flow>
+  <!-- NiFi configuration to route data from Kafka to HDFS or another destination -->
+  <!-- Detailed XML content can be auto-generated in NiFi UI -->
+</nifi-flow>
