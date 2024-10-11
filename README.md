@@ -81,9 +81,13 @@ How to Run Kubernetes Cluster:
 Conclusion
 
 This repository demonstrates the complete implementation of:
-•	A highly available Kubernetes cluster with monitoring and logging.
-•	A big data streaming service that integrates transactional and analytical databases.
-•	A CI/CD pipeline that automates the deployment of applications to Kubernetes.
+
+
+  1) A highly available Kubernetes cluster with monitoring and logging.
+
+ 2) A big data streaming service that integrates transactional and analytical databases.
+    
+ 3) A CI/CD pipeline that automates the deployment of applications to Kubernetes.
 
 
 ---
