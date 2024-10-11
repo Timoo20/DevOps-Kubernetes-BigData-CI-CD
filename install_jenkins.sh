@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # Update system and install necessary packages
