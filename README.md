@@ -86,6 +86,5 @@ This repository demonstrates the complete implementation of:
 
 
 ---
-Contributors
-•	Tim Murkomen (https://github.com/Timoo20) 
+Contributors: [Tim Murkomen](https://github.com/Timoo20) 
 
