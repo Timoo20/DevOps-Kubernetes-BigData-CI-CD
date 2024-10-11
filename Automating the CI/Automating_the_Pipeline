@@ -1,7 +1,0 @@
-# Once my Jenkinsfile is in place, I’ll configure Jenkins to automatically run the pipeline whenever there’s a change in my GitHub repository.
-
-### Logging into Jenkins
-
-
->>> Open Jenkins by navigating to http://localhost:8080.
->>>> To log in, I’ll use the initial admin password that was printed by the install_jenkins.sh script.
