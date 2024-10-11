@@ -67,8 +67,8 @@ Required Tools:
 •	Git (for version control).
 
 ----
-How to Run
-1. Kubernetes Cluster:
+How to Run Kubernetes Cluster:
+
 1.	Clone the repository:
 2.	Follow the instructions in the kubernetes/ folder to set up the Kubernetes cluster, install keepalived, and configure VIP, Prometheus, Grafana, and Fluentd.
 2. Big Data Streaming Service:
@@ -79,6 +79,7 @@ How to Run
 2.	Run the pipeline to build and deploy a sample application to the Kubernetes cluster.
 ---
 Conclusion
+
 This repository demonstrates the complete implementation of:
 •	A highly available Kubernetes cluster with monitoring and logging.
 •	A big data streaming service that integrates transactional and analytical databases.
@@ -87,4 +88,4 @@ This repository demonstrates the complete implementation of:
 
 ---
 Contributors: [Tim Murkomen](https://github.com/Timoo20) 
-
+---
