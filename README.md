@@ -83,11 +83,11 @@ Conclusion
 This repository demonstrates the complete implementation of:
 
 
-  1) A highly available Kubernetes cluster with monitoring and logging.
-
- 2) A big data streaming service that integrates transactional and analytical databases.
+  1) A highly available Kubernetes cluster with monitoring and logging >>> [CI-CD-Pipeline] (https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/ci-cd-pipeline)
+  
+  2) A big data streaming service that integrates transactional and analytical databases >>> [Big Data Streaming Branch] (https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/big-data-streaming)
     
- 3) A CI/CD pipeline that automates the deployment of applications to Kubernetes.
+  3) A CI/CD pipeline that automates the deployment of applications to Kubernetes >>> [Kubernetes-Setup] (https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/kubernetes-setup)
 
 
 ---
