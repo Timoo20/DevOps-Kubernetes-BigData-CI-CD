@@ -16,7 +16,14 @@ Each section provides step-by-step instructions, explanations, and configuration
 5.	How to Run
 6.	Conclusion
 ----
+##SHORT-CUTS
 
+>>> [Big Data Streaming Branch](https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/big-data-streaming)
+
+>>> [CI-CD-Pipeline](https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/ci-cd-pipeline)
+
+>>> [Kubernetes-Setup](https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/kubernetes-setup)
+---
 ## 1. Kubernetes Cluster Setup
 This section demonstrates how to create a highly available, performant, and secure Kubernetes cluster with the following features:
 •	Two master nodes with a Virtual IP (VIP) setup using keepalived.
@@ -83,11 +90,11 @@ Conclusion
 This repository demonstrates the complete implementation of:
 
 
-  1) A highly available Kubernetes cluster with monitoring and logging >>> [CI-CD-Pipeline] (https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/ci-cd-pipeline)
+  1) A highly available Kubernetes cluster with monitoring and logging >>> [CI-CD-Pipeline](https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/ci-cd-pipeline)
   
-  2) A big data streaming service that integrates transactional and analytical databases >>> [Big Data Streaming Branch] (https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/big-data-streaming)
+  2) A big data streaming service that integrates transactional and analytical databases >>> [Big Data Streaming Branch](https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/big-data-streaming)
     
-  3) A CI/CD pipeline that automates the deployment of applications to Kubernetes >>> [Kubernetes-Setup] (https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/kubernetes-setup)
+  3) A CI/CD pipeline that automates the deployment of applications to Kubernetes >>> [Kubernetes-Setup](https://github.com/Timoo20/DevOps-Kubernetes-BigData-CI-CD/tree/kubernetes-setup)
 
 
 ---
